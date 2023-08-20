@@ -14,10 +14,10 @@ O AluraCast é um projeto em HTML e CSS para aperfeiçoar minhas habilidades com
 ## Layout web
 ![Web 1](https://github.com/pedroinaciop/Projeto-AluraCast/blob/main/src/assets/img/web-design-1.png)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-# Autor
+## Autor
 
 Pedro Inácio Penha dos Santos - Curso Alura
 
