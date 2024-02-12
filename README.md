@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://pedroinaciop.github.io/Projeto-AluraCast/
+https://pedroinaciop.github.io/projeto_alura-cast/
 
 O AluraCast é um projeto em HTML e CSS para aperfeiçoar minhas habilidades com essas tecnologias, principalmente a parte responsiva e layout da página focada no display grid. Feito na Alura.
 
